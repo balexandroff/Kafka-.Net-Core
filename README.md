@@ -1,1 +1,1 @@
-# Kafka.NET
+# Getting started with Kafka.NET
